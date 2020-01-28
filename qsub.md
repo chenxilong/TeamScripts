@@ -9,5 +9,5 @@
 # cluster stat of a queue
 - qstat -F vf,num_proc -q long.q
 # del job
-- qdel <id>
-- qdel -u <user name>
+- qdel \<id\>
+- qdel -u \<user name\>
