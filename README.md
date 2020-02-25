@@ -1,3 +1,3 @@
-# TeamScrip
+# TeamScripts
 
 Here are scripts.
